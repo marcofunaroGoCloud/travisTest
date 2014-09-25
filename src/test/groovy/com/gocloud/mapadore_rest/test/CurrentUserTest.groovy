@@ -15,7 +15,7 @@ class CurrentUserTest extends Specification {
 			def a = !b
 		
 		then:
-			a == false
+			a == true
 
 	}
 
